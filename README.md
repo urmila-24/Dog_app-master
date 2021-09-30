@@ -51,14 +51,3 @@ Process to be followed:
 - Second Model (VGG-16) Test acc. = 40.1914%
 - Thisr Model (Resnet-50) our Test acc. = 81.1004784689%
 
-## Resources:¶
-
-- Research paper for Deep residual learning.
-- VGG-19 by Aakash Kaushik (opengenus).
-- Floating point operations per second (FLOPS) of Machine Learning models.
-- Convolutional Neural Network by Piyush Mishra and Junaid N Z (OpenGenus)
-- https://github.com/vdumoulin/conv_arithmetic
-- https://deepai.org/machine-learning-glossary-and-terms/accuracy-error-rate
-- https://intellipaat.com/community/368/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model
-- Udacity Workspace for Dog Preed Classification.
-- Resnet-50 by Aakash Kaushik (opengenus).
